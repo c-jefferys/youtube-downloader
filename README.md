@@ -1,5 +1,5 @@
 # ytDownloader
-Simple program to download YouTube videos and/or audio files. Implements the pytube library and allows user selection of a video & audio stream or just an audio stream. The video/audio file is downloaded and stored in the user's /Downloads directory.
+Simple program to download YouTube videos and/or audio files. Implements the pytube library. Displays selected video information (Title, Channel, Length) and allows user selection of a video & audio stream or just an audio stream. The video/audio file is downloaded and stored in the user's /Downloads directory.
 
 ## Execution
 While in the same directory as the ytDownloader.py file, run a command in the terminal to execute the file with the desired YouTube link as a string. 
